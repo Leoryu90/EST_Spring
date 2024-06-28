@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: basic
+
+kakao:
+  api:
+    key: 123456789
