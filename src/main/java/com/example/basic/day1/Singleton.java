@@ -1,4 +1,4 @@
-package com.example.basic;
+package com.example.basic.day1;
 
 public class Singleton {
 
