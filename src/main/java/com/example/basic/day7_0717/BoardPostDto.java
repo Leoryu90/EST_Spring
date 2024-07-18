@@ -21,5 +21,5 @@ public class BoardPostDto {
     private String author;
     private LocalDateTime createdAt;
     private LocalDateTime updatedAt;
-    private List<CommentDTO> comments = new ArrayList<>();
+    private List<CommentDto> comments = new ArrayList<>();
 }
